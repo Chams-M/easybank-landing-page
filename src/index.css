@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Public+Sans:wght@300;400;700&display=swap');
+:root {
+  
+  font-family: 'Public Sans', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+.MuiContainer-root.MuiContainer-maxWidthLg.appbar-container.css-1oqqzyl-MuiContainer-root{
+display: flex;
+}
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation4.MuiAppBar-root.MuiAppBar-colorPrimary.MuiAppBar-positionFixed.appbar.mui-fixed.css-11b3ww9-MuiPaper-root-MuiAppBar-root{
+  background-color: white;
+}
